@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KevGDesigns
-- 👀 I’m interested in PHP, MySQL, CSS, Javascript, JQuery, AJAX, PuTTy, GIT
-- 🌱 I’m currently learning Python, MongoDB
-- 💞️ I’m looking to collaborate on anything that would generate passive income, or coding boards, come to me with your ideas!
+- 👀 I’m interested in Vue, NodeJS, KOA, PHP, MySQL
 - 📫 How to reach me ...KEVGDESIGNS@GMAIL.COM
 
 <!---
