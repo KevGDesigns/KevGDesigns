@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KevGDesigns
-- 👀 I’m interested in Vue, NodeJS, KOA, PHP, MySQL
 - 📫 How to reach me ...KEVGDESIGNS@GMAIL.COM
 
 <!---
